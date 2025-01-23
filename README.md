@@ -60,9 +60,10 @@ URL: [GCP Logging Console](https://console.cloud.google.com/run/detail/us-centra
 ### Steps to Resolve
 
 1. **Identify the Issue**: Use Google Cloud Monitoring and Logging to identify the root cause.
-2. **Check Service Health**: Verify the health of the Cloud Run service and dependent services.
+2. **Check Service Health**: Verify the health of the Cloud Run service by trying out endpoints in the support console
 3. **Review Logs**: Analyze logs in Google Cloud Logging for errors and warnings.
-4. **Restart Service**: If necessary, escalate to admin for restarting the Cloud Run service from the GCP Console.
+4. **Collect Results for Dev**: Collect results and recommendations for DevOps to work on.
+5. **Restart Service**: If necessary, escalate to admin for restarting the Cloud Run service from the GCP Console.
 
 ## Documentation
 
