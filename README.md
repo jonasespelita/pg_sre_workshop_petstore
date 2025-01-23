@@ -54,7 +54,7 @@ URL: [GCP Logging Console](https://console.cloud.google.com/run/detail/us-centra
 
 ### Common Issues
 
-1. **Service Unavailable**: Check Cloud Run service status and logs.
+1. **Service Issue**: Recreate issue in support consol and check Cloud Run service status and logs.
 2. **Database Connectivity**: Verify database connection settings and network configurations.
 
 ### Steps to Resolve
